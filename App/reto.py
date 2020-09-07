@@ -64,7 +64,7 @@ def compareRecordIds (recordA, recordB):
         return 1
     return -1
 
-
+#hola 
 
 def loadCSVFile (file, tipo_lista, cmpfunction=None, sep=";"):
     """
